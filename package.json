@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "engines": {
-    "node": "10.16.0"
+    "node": "v10.16.0"
   },
   "author": "Jeremy Le-Ogier",
   "license": "ISC",
