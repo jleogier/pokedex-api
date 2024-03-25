@@ -18,7 +18,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
-    "express": "0.0.1-security",
+    "express": "4.19.2",
     "helmet": "^3.21.0",
     "morgan": "^1.9.1"
   },
